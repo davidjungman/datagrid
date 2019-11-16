@@ -1,5 +1,5 @@
 {
-    "name": "panthera/datagrid",
+    "name": "davidjungman/datagrid",
     "description": "Component for simple and dynamic data showing",
     "type": "library",
     "require": {
